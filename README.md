@@ -1,2 +1,2 @@
 # Basic-Projects
-Basic Projects will Be stored in here.
+Basic Projects will be stored in here.
