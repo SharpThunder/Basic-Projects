@@ -1,0 +1,395 @@
+Kernelized Bayesian Transfer Learning|APP
+"Source Free" Transfer Learning for Text Classification|AIW
+A Generalization of Probabilistic Serial to Randomized Social Choice|GTEP
+Lifetime Lexical Variation in Social Media|AIW
+Hybrid Singular Value Thresholding for Tensor Completion|KRR
+Locality Preserving Hashing|VIS
+Discovering Better AAAI Keywords via Clustering with Crowd-sourced Constraints|MLA
+Online Classification Using a Voted RDA Method|MLA
+Fraudulent Support Telephone Number Identification Based on Co-occurrence Information on the Web|AIW
+Supervised Hashing for Image Retrieval via Image Representation Learning|NMLA
+Tailoring Local Search for Partial MaxSAT|HSO
+R2: An Efficient MCMC Sampler for Probabilistic Programs|MLA
+Reconsidering Mutual Information Based Feature Selection: A Statistical Significance View|NMLA
+Influence Maximization with Novelty Decay in Social Networks|AIW
+Solving Uncertain MDPs by Reusing State Information and Plans|PS
+Identifying Differences in Physician Communication Styles with a Log-Linear Transition Component Model|APP
+Multi-Organ Exchange: The Whole is Greater than the Sum of its Parts|APP
+A Latent Variable Model for Discovering Bird Species Commonly Misidentified by Citizen Scientists|CSAI
+Cross-View Feature Learning for Scalable Social Image Analysis|AIW
+Semantic Graph Construction for Weakly-Supervised Image Parsing|VIS
+The Importance of Cognition and Affect for Artificially Intelligent Decision Makers|CM
+The Complexity of Reasoning with FODD and GFODD|KRR
+Scalable Complex Contract Negotiation With Structured Search and Agenda Management|MAS
+Manifold Learning for Jointly Modeling Topic and Visualization|NMLA
+Constructing Symbolic Representations for High-Level Planning|NMLA
+Towards Understanding Unscripted Gesture and Language Input for Human-Robot Interactions|APP
+Intelligent System for Urban Emergency Management During Large-scale Disaster|CSAI
+Cached Iterative Weakening for Optimal Multi-Way Number Partitioning|HSO
+Online Social Spammer Detection|AIW
+Modeling and Predicting Popularity Dynamics via Reinforced Poisson Process|APP
+Type-based Exploration  for Satisficing Planning with Multiple Search Queues|HSO
+Exact Subspace Clustering in Linear Time|NMLA
+Robust Bayesian Inverse Reinforcement Learning with Sparse Behavior Noise|NMLA
+Lazy Defenders Are Almost Optimal Against Diligent Attackers|GTEP
+PREGO: An Action Language for Belief-Based Cognitive Robotics in Continuous Domains|KRR
+Dropout Training for Support Vector Machines|MLA
+Game-theoretic Resource Allocation for Protecting Large Public Events|APP
+Quality-based Learning for Web Data Classification|AIW
+A Strategy-Proof Online Auction with Time Discounting Values|GTEP
+ReLISH: Reliable Label Inference via Smoothness Hypothesis|NMLA
+Parallel Materialisation of Datalog Programs in Centralised, Main-Memory RDF Systems|AIW
+Non-linear Label Ranking for Large-scale Prediction of Long-Term User Interests|MLA
+Efficient Object Detection via Adaptive Online Selection of Sensor-Array Elements|MLA
+Simultaneous Cake Cutting|GTEP
+Recovering from Selection Bias in Causal and Statistical Inference|KRR
+Semi-supervised Target Alignment via Label-Aware Base Kernels|NMLA
+Active Learning with Model Selection via Nested Cross-Validation|NMLA
+Sketch Recognition with Natural Correction and Editing|AIW
+Generalized Label Reduction for Merge-and-Shrink Heuristics|HSO
+Predicting Emotions in User-Generated Videos|AIW
+Emotion Classification in Microblog Texts Using Class Sequential Rules|AIW
+k-CoRating: Filling up Data to Obtain Privacy and Utility|AIW
+Adaptive Multi-Compositionality for Recursive Neural Models with Applications to Sentiment Analysis|NLPML
+Predicting the Hardness of Learning Bayesian Networks|HSO
+Stochastic Privacy: Model, Methods, and Experiments|AIW
+A Parameterized Complexity Analysis of Generalized CP-Nets|GTEP
+Solving Imperfect Information Games Using Decomposition|GTEP
+Robust Visual Robot Localization Across Seasons using Network Flows|ROB
+Small-variance Asymptotics for Dirichlet Process Mixtures of SVMs|NMLA
+Online (Budgeted) Social Choice|GTEP
+Using The Matrix Ridge Approximation to Speedup Determinantal Point Processes Sampling Algorithms|NMLA
+TopicMF: Simultaneously Exploiting Ratings and Reviews for Recommendation|AIW
+OurAgent'13: A Champion Adaptive Power Trading Agent|APP
+Fast and Accurate Influence Maximization on Large Networks with Pruned Monte-Carlo Simulations|AIW
+Fixing a Balanced Knockout Tournament|GTEP
+Querying Inconsistent Description Logic Knowledge Bases under Preferred Repair Semantics|KRR
+Incomplete Preferences in Single-Peaked Electorates|GTEP
+Forecasting Potential Diabetes Complications|APP
+Knowledge Graph Embedding by Translating on Hyperplanes|KRR
+A Control Dichotomy for Pure Scoring Rules|GTEP
+Fast consistency checking of very large real-world RCC-8 constraint  networks using graph partitioning|KRR
+Encoding Tree Sparsity in Multi-Task Learning: A Probabilistic Framework|NMLA
+Efficient Generalized Fused Lasso with Application to the Diagnosis of Alzheimer’s Disease|MLA
+How Do Your Friends on Social Media Disclose Your Emotions?|APP
+Contextually Supervised Source Separation with Application to Energy Disaggregation|CSAI
+The Computational Complexity of Structure-Based Causality|KRR
+Biased Games|GTEP
+Grounding Acoustic Echoes In Single View Geometry Estimation|KRR
+Preference Elicitation and Interview Minimization in Stable Matchings|APP
+Placement of Loading Stations for Electric Vehicles: No Detours Necessary!|CSAI
+Extracting Keyphrases from Research Papers using Citation Networks|NLPTM
+Learning Parametric Models for Social Infectivity in Multi-dimensional Hawkes Processes|AIW
+Sub-Selective Quantization for Large-Scale Image Search|VIS
+Accurate Integration of Aerosol Predictions by Smoothing on a Manifold|MLA
+Leveraging Decomposed Trust in Probabilistic Matrix Factorization for Effective Recommendation|AIW
+Multi-Instance Learning with Distribution Change|NMLA
+Minimising Undesired Task Costs in Multi-robot Task Allocation Problems with In-Schedule Dependencies|GTEP
+A Machine Learning Approach to Musically Meaningful Homogeneous Style Classification|MLA
+Learning Deep Representations for Graph Clustering|MLA
+Fast Multi-Instance Multi-Label Learning|NMLA
+Modeling and mining spatiotemporal patterns of infection risk from heterogeneous data for active surveillance planning|CSAI
+Symbolic Domain Predictive Control|PS
+Can Agent Development Affect Developer's Strategy?|CM
+Robust Distance Learning in the Presence of Label Noise|NMLA
+Exponential Deepening A* for Real-Time Agent-Centered Search|HSO
+Learning Low-Rank Representations with Classwise Block-Diagonal Structure for Robust Face Recognition|CS
+Congestion Games for V2G-Enabled EV Charging|CSAI
+Accurate Household Occupant Behavior Modeling Based on Data Mining Techniques|MLA
+Generating Content for Scenario-Based Serious-Games using CrowdSourcing|GPIE
+A Tractable Approach to ABox Abduction over Description Logic Ontologies|KRR
+User Group Oriented Dynamics Exploration|AIW
+Automatic Construction and Natural-Language Description of Nonparametric Regression Models|MLA
+Capturing Difficulty Expressions in Student Online Q&A Discussions|AIW
+Lifting Relational MAP-LP Relaxations using Permutation Constraint Graphs|RU
+Boosting SBDS for Partial Symmetry Breaking in Constraint Programming|SCS
+Evolutionary dynamics of learning algorithms over the sequence form|GTEP
+Structured Possibilistic Planning using Decision Diagrams|KRR
+Labeling Complicated Objects: Multi-View Multi-Instance Multi-Label Learning|AIW
+Reasoning on LTL on Finite Traces: Insensitivity to Infiniteness|AIW
+A Game-theoretic Analysis of Catalog Optimization|GTEP
+Linear-Time Filtering Algorithms for the Disjunctive Constraint|PS
+Low-Rank Tensor Completion with Discriminant Analysis for Action Classification|MLA
+Programming by Example using Least General Generalizations|APP
+Give a Hard Problem to a Diverse Team: Exploring Large Action Spaces|MAS
+A Simple Polynomial-Time Randomized Distributed Algorithm for Connected Row Convex Constraints|MAS
+SUIT: A Supervised User-Item based Topic model for Sentiment Analysis|AIW
+Automatic Game Design via Mechanic Generation|GPIE
+Learning the Structure of Probabilistic Graphical Models with an Extended Cascading Indian Buffet Process|NMLA
+Learning Compositional Sparse Models of Bimodal Percepts|CS
+Dramatis: A Computational Model of Suspense|APP
+LASS: A Simple Assignment Model with Laplacian Smoothing|HSO
+Learning Goal-Oriented Hierarchical Tasks from Situated Interactive Instruction|CM
+Chance-constrained Probabilistic Simple Temporal Problems|PS
+False-Name Bidding and Economic Efficiency in Combinatorial Auctions|GTEP
+Exploiting Competition Relationship for Robust Visual Recognition|APP
+Power Iterated Color Refinement|NMLA
+A Framework for Task Planning in Heterogeneous Multi Robot Systems Based on Robot Capabilities|PS
+Active Learning Using Knowledge Transfer from Unlabeled Data|NMLA
+Using Model-Based Diagnosis to Improve Software Testing|APP
+Wormhole Hamiltonian Monte Carlo|NMLA
+Pay-as-you-go OWL Query Answering Using a Triple Store|AIW
+Imitation Learning with Demonstrations and Shaping Rewards|RU
+Spectral Thompson Sampling|NMLA
+Mechanism Design for Scheduling with Uncertain Execution Time.|GTEP
+Robust Winners and Winner Determination Policies under Candidate Uncertainty|APP
+Learning Latent Engagement Patterns of Students in Online Courses|APP
+Semantic Segmentation Using Multiple Graphs with Block-Diagonal Constraints|MLA
+Parametrized Families of Hard Planning Problems from Phase Transitions|PS
+On Dataless Hierarchical Text Classification|NLPML
+Confident Reasoning on Raven’s Progressive Matrices Tests|KRR
+The Role of Dimensionality Reduction in Linear Classification|HSO
+Generalizing Policy Advice with Gaussian Process Bandits for Dynamic Skill Improvement|HSO
+Deep Modeling of Group Preferences for Group-based Recommendation|AIW
+Cross-Domain Metric Learning Based on Information Theory|NMLA
+Spatial Scan for Disease Mapping on a Mobile Population|APP
+Identifying Hierarchies for Fast Optimal Search|HSO
+On Boosting Sparse Parities|NMLA
+Decentralized Stochastic Planning with Anonymity in Interactions|PS
+Regret Transfer and Parameter Optimization|GTEP
+Learning with Augmented Class by Exploiting Unlabeled Data|NMLA
+Locality-constrained Low-rank Coding for Image Classification|VIS
+Qualitative Planning with Quantitative Constraints for Online Learning of Robotic Behaviours|CS
+Regret-Based Multi-Agent Coordination with Uncertain Task Rewards|MAS
+Convex Co-embedding|NMLA
+Optimal Decoupling in Linear Constraint Systems|HSO
+Who also likes it? Generating the most Persuasive Social Explanations in Recommender Systems|AIW
+Computing Contingent Plans via Fully Observable Non-Deterministic Planning|PS
+Instance-based Domain Adaptation in NLP via In-target-domain Logistic Approximation|NLPML
+Ordering Effects and Belief Adjustment in the Use of Comparison Shopping Agents|HAI
+Scalable sparse covariance estimation via self-concordance|MLA
+Trading Multiple Indivisible Goods with Indifferences: Beyond Sönmez's Result|GTEP
+SenticNet 3: A Common and Common-Sense Knowledge Base for Cognition-Driven Sentiment Analysis|CS
+Combining Multiple Correlated Reward and Shaping Signals by Measuring Confidence|NMLA
+Avoiding Plagiarism in Markov Sequence Generation|APP
+A Region-Based Model for Estimating Urban Air Pollution|CSAI
+Item Bidding  for Combinatorial Public Projects|GTEP
+How Long Will It Take? Accurate Prediction of Ontology Reasoning Performance|AIW
+Backdoors to Planning|KRR
+Dynamic Multi-Agent Task Allocation with Spatial and Temporal Constraints|MAS
+Datalog Rewritability of Disjunctive Datalog Programs and its Applications to Ontology Reasoning|KRR
+Increasing VCG revenue by decreasing the quality of items|GTEP
+Grandpa Hates Robots - Interaction Constraints for Planning in Inhabited Environments|KRR
+The Most Uncreative Examinee: A First Step toward Wide Coverage Natural Language Math Problem Solving|KRR
+Acquiring Commonsense Knowledge for Sentiment Analysis through Human Computation|HCC
+Optimistic Adaptive Submodularity at Scale|APP
+Sequential Click Prediction for Sponsored Search with Recurrent Neural Networks|AIW
+Backdoors into Heterogeneous Classes of SAT and CSP|KRR
+Theory of Cooperation in Complex Social Networks|GTEP
+Explanation-Based Approximate Weighted Model Counting for Probabilistic Logics|KRR
+A Knowledge Compilation Map for Ordered Real-Valued Decision Diagrams|KRR
+Prices Matter for the Parameterized Complexity of Shift Bribery|GTEP
+Decomposing Activities of Daily Living to Discover Routine Clusters|MLA
+On Hair Recognition in the Wild by Machine|VIS
+Capturing Relational Schemas and Functional Dependencies in RDFS|AIW
+Maximum Satisfiability using core-guided MaxSAT Resolution|SCS
+Mind the Gap: Machine Translation by Minimizing the Semantic Gap in Embedding Space|NLPKR
+Rounded Dynamic Programming for Tree-Structured Stochastic Network Design|CSAI
+Incentives for Truthful Information Elicitation of Continuous Signals|GTEP
+Equilibria in Epidemic Containment Games|APP
+Beat the Cheater: Computing Game-Theoretic Strategies for When to Kick a Gambler out of a Casino|GTEP
+A Characterization of the Single-Peaked Single-Crossing Domain|GTEP
+A Support-Based Algorithm for the Bi-Objective Pareto Constraint|SCS
+HC-Search for Multi-Label Prediction: An Empirical Study|NMLA
+Semi-supervised Matrix Completion for Cross-Lingual Text Classification|MLA
+Approximate Lifting Techniques for Belief Propagation|RU
+Cost-Based Query Optimization via AI Planning|KRR
+Efficient buyer groups for prediction-of-use electricity tariffs|CSAI
+Distribution-Aware Sampling and Weighted Model Counting for SAT|SCS
+Online and Stochastic Learning with a Human Cognitive Bias|HCC
+Adaptive Singleton-based Consistencies|SCS
+Scheduling for Transfers in Pickup and Delivery Problems with Very Large Neighborhood Search|HSO
+Unsupervised Alignment of Natural Language Instructions with Video Segments|MLA
+Detecting information-dense texts in multiple news domains|AIW
+Smarter Than You Think: Acquiring Comparative Commonsense from the Web|AIW
+A reasoner for the RCC-5 and RCC-8 calculi extended with constants|KRR
+Schedule-based Robotic Search for Multiple Residents in a Retirement Home Environment|PS
+Diagram Understanding in Geometry Problems|APP
+Latent Domains Modeling for Domain Adaptation|MLA
+Improving Domain-independent Cloud-based Speech Recognition with Domain-dependent Phonetic Post-processing|AIW
+A Strategy-Aware Technique for Learning Behaviors from Discrete Human Feedback|APP
+Learning Instance Concepts from Multiple-Instance Data with Bags as Distributions|NMLA
+Tractability through Exchangeability: A New Perspective on Efficient Probabilistic Inference|RU
+Collaborative Models for Referring Expression Generation in Situated Dialogue|NLPML
+Efficient Optimization for Autonomous Manipulation of Natural Objects|MLA
+Effective Management of Electric Vehicle Storage using Smart Charging|CSAI
+Social Planning: Achieving Goals by Altering Others' Mental States|CS
+Feature-Cost Sensitive Learning with Submodular Trees of Classifiers|NMLA
+Multiagent Metareasoning Through Organizational Design|MAS
+Experiments on Visual Information Extraction with the Faces of Wikipedia|AIW
+Signals in the Silence: Models of Implicit Feedback in a Recommender System for Crowdsourcing|AIW
+A Convex Formulation for Semi-supervised Multi-Label Feature Selection|NMLA
+A Spatially Sensitive Kernel to Predict Cognitive Performance from Short-Term Changes in Neural Structure|APP
+GP-Localize: Persistent Mobile Robot Localization using Online Sparse Gaussian Process Observation Model|MLA
+On Detecting Nearly Structured Preference Profiles|GTEP
+Relational One-Class Classification: A Non-Parametric Approach|NMLA
+A spatio-temporal pattern mining algorithm to identify objects in a continuous field: A global oceanography perspective|CSAI
+Efficient codes for inverse dynamics during walking|CM
+Anytime Active Learning|HCC
+Elimination Ordering in Lifted First-Order Probabilistic Inference|RU
+Predicting Postoperative Atrial Fibrillation from Independent ECG Components|APP
+Online Multi-Task Learning via Sparse Dictionary Optimization|NMLA
+Betting Strategies, Market Selection, and the Wisdom of Crowds|GTEP
+Where and Why Users "Check In"|AIW
+Designing Fast Absorbing Markov Chains|HSO
+Symbolic Model Checking Epistemic Strategy Logic|MAS
+A Scheduler for Actions with Iterated Durations|PS
+Materials Discovery - Synthetic and Real World Datasets|CSAI
+Automatic Synthesis of Geometry Problems for an Intelligent Tutoring System|APP
+Modeling Subjective Experience-based Learning under Uncertainty and Frames|CM
+Resolving Pronouns by Leveraging English Resources|NLPML
+Bagging by design (on the sub-optimality of bagging)|NMLA
+A Hybrid Grammar-Based Approach for Learning and Recognizing Natural Hand Gestures|MLA
+Combining Heterogenous Social and Geographical Information for Event Recommendation|AIW
+Leveraging Fee-Based, Imperfect Advisors in Human-Agent Games of Trust|HAI
+GenEth: A General Ethical Dilemma Analyzer|APP
+Solving the Traveling Tournament Problem by Packing Three-Vertex Paths|HSO
+Gradient Descent Method with Proximal Average for Nonconvex and Composite Regularization|NMLA
+Multilabel Classification with Label Correlations and Missing Labels|NMLA
+Double Configuration Checking in Stochastic Local Search for Satisfiability|HSO
+Direct Semantic Analysis for Social Image Classification|MLA
+On the Structure of Synergies in Cooperative Games|GTEP
+Similarity-preserving binary signature for linear subspace|NMLA
+Sample-Adaptive Multiple Kernel Learning|NMLA
+Learning Temporal Dynamics of Behavior Propagation in Social Networks|AIW
+Delivering Guaranteed Display Ads under Reach and Frequency Requirements|AIW
+Video Recovery via Low-Rank Tensor Completion with Spatio-Temporal Consistency|VIS
+Robust Multi-View Spectral Clustering via Low-Rank and Sparse Decomposition|NMLA
+Ranking Tweets by Labeled and Collaboratively Selected Pairs with Transitive Closure|APP
+Globally and Locally Consistent Unsupervised Projection|NMLA
+On the Incompatibility of Efficiency and Strategyproofness in Randomized Social Choice|GTEP
+Context-aware Collaborative Topic Regression with Social Matrix Factorization for Recommender Systems|AIW
+Deep Salience: Visual Salience Modeling via Deep Belief Propagation|CM
+A Local Non-negative Pursuit Method for Intrinsic Manifold Structure Preservation|NMLA
+Regret-based Optimization and Preference Elicitation for Stackelberg Security Games with Uncertainty|GTEP
+Adding Local Exploration to Greedy Best-First Search for Satisficing Planning|HSO
+Pre-trained Multi-view Word Embedding using Two-side Neural Network|AIW
+Trust Prediction with Propagation and Similarity Regularization|AIW
+Recommendation by Mining Multiple User Behaviors with Group Sparsity|AIW
+Modal Ranking: A Uniquely Robust Voting Rule|GTEP
+Proximal Iteratively Reweighted Algorithm with Multiple Splitting for Nonconvex Sparsity Optimization|NMLA
+Extending Tournament Solutions|GTEP
+Optimal Neighborhood Preserving Visualization by Maximum Satisfiability|NMLA
+Dynamic Bayesian Probabilistic Matrix Factorization|NMLA
+Echo-State Conditional Restricted Boltzmann Machines|NMLA
+A Joint Optimization Model for Image Summarization Based on Image Content and Tags|AIW
+A Computational Method for (MSS,CoMSS) Partitioning|HSO
+Feature Selection at the Discrete Limit|NMLA
+Computing General First-order Parallel and Prioritized Circumscription|KRR
+Learning Word Representation Considering Proximity and Ambiguity|AIW
+Planning as Model Checking in Hybrid Domains|PS
+Novel Density-based Clustering Algorithms for Uncertain Data|NMLA
+Parallel Restarted Search|HSO
+MaxSAT Portfolio|SCS
+Large-Scale Supervised Multimodal Hashing with Semantic Correlation Maximization|NMLA
+Role-aware Conformity Modeling and Analysis in Social Networks|APP
+Data Quality in Ontology-based Data Access: The Case of Consistency|APP
+Sparse Compositional Metric Learning|NMLA
+Improving Context and Category Matching for Entity Search|AIW
+ARIA: Asymmetry Resistant Instance Alignment|AIW
+Diagnosing Analogue Linear Systems Using Dynamic Topological Reconfiguration|KRR
+Simpler Bounded Suboptimal Search|HSO
+PAC Rank Elicitation through Adaptive Sampling of Stochastic Pairwise Preferences|NMLA
+Elementary Loops Revisited|KRR
+On Computing Optimal Strategies in Open List Proportional Representation: the Two Parties Case|GTEP
+Joint Morphological Generation and Syntactic Linearization|NLPKR
+Machine Translation with Real-time Web Search|AIW
+Latent Low-Rank Bi-Directional Transfer Subspace Learning|NMLA
+Adaptive Knowledge Transfer for Multiple Instance Learning in Image Classification|NMLA
+Finding the k-best Equivalence Classes of Bayesian Network Structures for Model Averaging|NMLA
+On the Challenges of Physical Implementations of RBMs|MLA
+SLE: Signed Laplacian Embedding for Supervised Dimension Reduction|NMLA
+Envy-Free Division of Sellable Goods|GTEP
+Potential-Aware Imperfect-Recall Abstraction with Earth Mover's Distance in Imperfect-Information Games|GTEP
+Partial Multi-View Clustering|MLA
+User Intent Identification from Online Discussions using a Joint Aspect-Action Topic Model|AIW
+Voting with Rank Dependent Scoring Rules|GTEP
+Implementing GOLOG in Answer Set Programming|KRR
+Agent Behavior Prediction and Its Generalization Analysis|MLA
+Sparse Learning for Stochastic Composite Optimization|HSO
+Cross-lingual Knowledge Validation Based Taxonomy Derivation from Heterogeneous Online Wikis|AIW
+A Relevance-Based Compilation Method for Conformant Probabilistic Planning|PS
+Incentivizing High-quality Content from Heterogeneous Users: On the Existence of Nash Equilibrium|GTEP
+DJAO: A Communication-Constrained DCOP algorithm that combines features of ADOPT and Action-GDL|HSO
+Oversubscription Planning: Complexity and Compilability|PS
+Monte Carlo Filtering using Kernel Embedding of Distributions|NMLA
+New Models for Competitive Contagion|GTEP
+Hybrid Heterogeneous Transfer Learning through Deep Learning|NMLA
+Decentralized Multi-Agent Reinforcement Learning in Average-Reward Dynamic DCOPs|MAS
+Approximate Equilibrium and Incentivizing Social Coordination|GTEP
+Qualitative Reasoning with Modelica Models|APP
+Evaluating Trauma Patients: Addressing Missing Covariates Using Joint Optimization|MLA
+Tightening Bounds for Bayesian Network Structure Learning|NMLA
+Pathway Specification and Comparative Queries: A High Level Language with Petri Net Semantics|APP
+Solving the Inferential Frame Problem in the General Game Description Language|GPIE
+Testable Implications of Linear Structural Equation Models|KRR
+Manifold Spanning Graphs|NMLA
+Learning Relative Similarity by Stochastic Dual Coordinate Ascent|MLA
+locality preserving projection via multi-objective learning for domain adaptation|KRR
+Internally Stable Kidney Exchange|GTEP
+Intra-view and Inter-view Supervised Correlation Analysis for Multi-view Feature Learning|NMLA
+Finding Median Point-Set Using Earth Mover's Distance|HSO
+Preprocessing for Propositional Model Counting|SCS
+Propagating Regular Counting Constraints|SCS
+SOML: Sparse Online Metric Learning with Application to Image Retrieval|MLA
+Strategyproof exchange with multiple private endowments|GTEP
+Mechanism design for mobile geo-location advertising|GTEP
+A Propagator Design Framework for Constraints over Sequences|SCS
+A Constructive Argumentation Framework|KRR
+Point-based POMDP solving with factored value function approximation|PS
+A Multiarmed Bandit Incentive Mechanism for Crowdsourcing Demand Response in Smart Grids|CSAI
+Binary Aggregation by Selection of the Most Representative Voter|GTEP
+Pairwise-Covariance Linear Discriminant Analysis|
+State Aggregation in Monte Carlo Tree Search|PS
+Saturated Path-Constrained MDP: Planning under Uncertainty and Deterministic Model-Checking Constraints|PS
+Bounding the Support Size in Extensive Form Games with Imperfect Information|GTEP
+Exploiting Support Sets for Answer Set Programs with External Evaluations|KRR
+Towards Topological-transformation Robust Shape Comparison:  A Sparse Representation Based Manifold Embedding Approach|VIS
+Uncorrelated Multi-view Fisher Discrimination Dictionary Learning For Recognition|NMLA
+Semantic Data Representation for Improving Tensor Factorization|AIW
+Local-To-Global Consistency Implies Tractability of Abduction|KRR
+Generalized Higher-Order Tensor Decomposition via Parallel ADMM|NMLA
+Abduction Framework for Repairing Incomplete  EL Ontologies:  Complexity Results and Algorithms|AIW
+Mixing-time Regularized Policy Gradient|CS
+Exploring the Boundaries of Decidable Verification of Non-Terminating Golog Programs|KRR
+Using Timed Game Automata to Synthesize Execution Strategies for Simple Temporal Networks with Uncertainty|PS
+Adaptation Guided Case Base Maintenance|NMLA
+The Fisher Market Game: Equilibrium and Welfare|GTEP
+Huffman Coding for Storing Non-uniformly Distributed Messages in Networks of Neural Cliques|APP
+An Agent-Based Model Studying the Acquisition of a Language System of Logical Constructions|CM
+Tree-Based On-line Reinforcement Learning|RU
+Doubly Regularized Portfolio with Risk Minimization|APP
+Non-convex feature learning via $\ell_{p,\infty}$ operator|
+Robust Non-negative Dictionary Learning|
+On the Axiomatic Characterization of Runoff Voting Rules|GTEP
+Supervised Scoring with Monotone Multidimensional Splines|CSAI
+CoreCluster: A Degeneracy Based Graph Clustering Framework|AIW
+A Generalized Genetic Algorithm-Based Solver for Very Large Jigsaw Puzzles of Complex Types|NMLA
+Solving Zero-Sum Security Games in Discretized Spatio-Temporal Domains|GTEP
+Q-intersection Algorithms for Constraint-Based Robust Parameter Estimation|SCS
+Fused Feature Representation Discovery for High-dimensional and Sparse Data|NLPML
+Joule Counting Correction for Electric Vehicles using Artificial Neural Nets|APP
+Managing Change in Graph-structured Data Using Description Logics|KRR
+BCI Based Control Without Explicit Calibration|CM
+Towards Scalable Exploration of Diagnoses in an Ontology Stream|AIW
+Flexible and Scalable Partially Observable Planning with Linear Translations|KRR
+Online Portfolio Selection with Group Sparsity|APP
+Prediction of Helpful Reviews using Emotions Extraction|MLA
+An Adversarial Interpretation of Information-Theoretic Bounded Rationality|PS
+Learning to Recognize Novel Objects in One Shot through Human-Robot Interactions in Natural Language Dialogues|CS
+Coactive Learning for Locally Optimal Problem Solving|HCC
+Large Scale Analogical Reasoning|CS
+Learning Models of Unknown Events|CM
+Learning Concept Embeddings for Query Expansion by Quantum Entropy Minimization|NLPKR
+Non-Restarting SAT Solvers With Simple Preprocessing Efficiently Simulate Resolution|SCS
+Worst-Case Solution Quality Analysis When Not Re-Expanding Nodes in Best-First Search|HSO
+Natural Temporal Difference Learning|
+Relaxation Search: a Simple Way of Managing Optional Clauses|SCS
+Using Response Functions to Measure Strategy Strength|GTEP
+Optimal and Efficient Stochastic Motion Planning in Partially-Known Environments|PS
+Learning Scripts as Hidden Markov Models|NLPML
+Mapping Users Across Networks by Manifold Alignment on Hypergraph|AIW
+Compact Aspect Embedding For Diversified Query Expansion|AIW
+Contraction and Revision over DL-Lite TBoxes|KRR
+Zero Pronoun Resolution as Ranking|NLPTM
+Supervised Transfer Sparse Coding|NMLA
